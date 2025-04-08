@@ -1,6 +1,6 @@
 "Competency","Active (y/n)","Mastery","Competency_Abbreviation","Lens","Lens_Description","Source","Competency_Description","End1","End2","End3","End4","End5","End6","Dev1","Dev2","Dev3","Dev4","Dev5","Dev6","Time1","Time2","Time3","Time4","Time5","Time6"
 "Familiarity with data types and file formats","Y","1","TFF","Technical","""Web development, infrastructure, server environment, interface design; choices about tools, platforms, software, and hardware."" (p. 12)","MIT","""On what basis are decisions about file formats and
-data types made?"" (p. 12)","This is a test","Ex. Understand the differences between image formats.","","","","","Your activity here.","Ex. Participating in lecture and discussion of digital image fundamentals.","","","","","Your time here.","Ex. 1 Week","","","",""
+data types made?"" (p. 12)","This is a test","Ex. Understand the differences between image formats.This is a testThis is a testThis is a testThis is a testThis is a test","","","","","Your activity here.","Ex. Participating in lecture and discussion of digital image fundamentals.","","","","","Your time here.","Ex. 1 Week","","","",""
 "Database Knowledge","Y","1","DbK","Technical","""Web development, infrastructure, server environment, interface design; choices about tools, platforms, software, and hardware."" (p. 12)","MIT","""If a database is part of the information architecture,
 what type is it? How will it work and why is it needed?
 What are the entities in the database, what are their
@@ -11,7 +11,7 @@ used in the project and who controls them? What kind
 of permissions and rights will govern the data sets?"" (p. 12)","Your learner goal here. 
 ","Ex. Understand the basic nature of a database.","","","","","Your activity here.","Ex. Participating in lecture and discussion of data management.","","","","","Your time here.","Ex. 1 Week","","","",""
 "XML structured data","Y","1","XML","Technical","""Web development, infrastructure, server environment, interface design; choices about tools, platforms, software, and hardware."" (p. 12)","MIT","""What schema or version of XML is being used and why? Is it used for mark-up or just for metadata?"" (p. 12) ","Your learner goal here. 
-","","","","","","Your activity here.","","","","","","Your time here.","","","","",""
+","This is a test","","","","","Your activity here.","","","","","","Your time here.","","","","",""
 "Metadata standards","Y","1","MdS","Technical","""Web development, infrastructure, server environment, interface design; choices about tools, platforms, software, and hardware."" (p. 12)","MIT","""What process of metadata selection was used and how does the metadata standard suit the project and its disciplinary field as well as its institutional home? Are the metadata standards compliant with existing standards in the field?"" (p. 12)","Your learner goal here. 
 ","","","","","","Your activity here.","","","","","","Your time here.","","","","",""
 "Scripting languages","Y","1","ScL","Technical","""Web development, infrastructure, server environment, interface design; choices about tools, platforms, software, and hardware."" (p. 12)","MIT","""To what extent are scripting languages used in the
